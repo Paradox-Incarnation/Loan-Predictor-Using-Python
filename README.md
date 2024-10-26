@@ -91,7 +91,7 @@ client = Groq(api_key="your_api_key_here")
 ---
 
 ## 📬 Contact
-For questions or feedback, reach out to **[Your Name]** at **[your-email@example.com]**.  
+For questions or feedback, reach out to **[Paradox_Incarnation]** at **[paradoxincarnation@gmail.com]**.  
 
 ---
 
