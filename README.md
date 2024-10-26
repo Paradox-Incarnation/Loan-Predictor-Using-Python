@@ -79,11 +79,6 @@ client = Groq(api_key="your_api_key_here")
 
 ---
 
-## 🛡 License
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute.
-
----
-
 ## 🤝 Contributing
 1. Fork the repository.  
 2. Create a new branch (`git checkout -b feature/your-feature`).  
