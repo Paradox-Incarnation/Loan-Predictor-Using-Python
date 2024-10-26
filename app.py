@@ -104,7 +104,7 @@ st.markdown(
         transform: translateY(-2px);
         box-shadow: 0 0 10px #f2a365, 0 0 15px #f2a365; 
         background-color: #f2a365;
-        color: #222831 !important; 
+        color: #f2f2f2 !important;
     }
 
     .success {
