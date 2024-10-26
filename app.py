@@ -80,7 +80,6 @@ st.markdown(
 }
     p {
         text-align: center;
-        color: #ffffff;
         font-size: 1.1rem;
     }
 
@@ -92,7 +91,7 @@ st.markdown(
 
     .stButton button {
         background-color: #393e46; 
-        color: #f2f2f2;
+        color: #f2f2f2 !important;
         border: none;
         padding: 12px 28px;
         font-size: 1rem;
@@ -105,7 +104,7 @@ st.markdown(
         transform: translateY(-2px);
         box-shadow: 0 0 10px #f2a365, 0 0 15px #f2a365; 
         background-color: #f2a365;
-        color: #222831; 
+        color: #222831 !important; 
     }
 
     .success {
@@ -130,7 +129,6 @@ st.markdown(
         animation: fadeIn 1.2s ease;
     }
     .suggestions {
-        color: #f0f0f0; 
         background-color: rgba(255, 108, 108, 0.2);
         padding: 25px; 
         border-radius: 8px; 
