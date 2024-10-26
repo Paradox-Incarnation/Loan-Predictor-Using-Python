@@ -13,6 +13,11 @@ This repository contains a **machine learning-powered web application** built wi
 
 ---
 
+## 🌐 Live Demo  
+You can try the app here: [Loan Predictor by AYRA AI](https://loan-predictor-ayra-ai.streamlit.app/)
+
+---
+
 ## 🛠 Technologies Used
 - **Python**
 - **Streamlit** (for frontend)
@@ -31,7 +36,7 @@ This repository contains a **machine learning-powered web application** built wi
 
 ---
 
-## ⚙️ Setup and Installation
+## ⚙️ Setup and Installation  
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/your-username/loan-predictor-ayra.git
@@ -53,15 +58,7 @@ This repository contains a **machine learning-powered web application** built wi
 
 ---
 
-## 🚀 Usage
-1. Enter details such as **income**, **CIBIL score**, **loan amount**, and **assets**.
-2. Click **"Predict Loan Status"** to get the result.
-3. If **approved**, you’ll see a success message.
-4. If **rejected**, the app provides **suggestions** to improve loan eligibility.
-
----
-
-## 🔑 API Configuration
+## 🔑 API Configuration  
 Make sure to set the **Groq API key** in the code:
 ```python
 client = Groq(api_key="your_api_key_here")
@@ -81,6 +78,12 @@ client = Groq(api_key="your_api_key_here")
 - Implement multi-step forms for a better user experience.
 
 ---
+
+## 🛡 License
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute.
+
+---
+
 ## 🤝 Contributing
 1. Fork the repository.  
 2. Create a new branch (`git checkout -b feature/your-feature`).  
@@ -90,8 +93,8 @@ client = Groq(api_key="your_api_key_here")
 
 ---
 
-## 📬 Contact
-For questions or feedback, reach out to **[Paradox_Incarnation]** at **[paradoxincarnation@gmail.com]**.  
+## 📬 Contact  
+For questions or feedback, reach out to **[Your Name]** at **[your-email@example.com]**.  
 
 ---
 
