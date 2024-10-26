@@ -94,7 +94,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ---
 
 ## 📬 Contact  
-For questions or feedback, reach out to **[Piyush Baweja]** at **[paradoxincarnation@gmail.com]**.  
+For questions or feedback, reach out to **Piyush Baweja** at **paradoxincarnation@gmail.com**.  
 
 ---
 
