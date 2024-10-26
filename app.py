@@ -53,7 +53,7 @@ st.markdown(
     """
     <style>
    .main {
-        background-color: #222831; /* Dark background */
+        background-color: #222831; 
         max-width: 600px;
         margin: auto;
         padding: 30px;
